@@ -48,9 +48,9 @@ class  App extends React.Component {
        <div className="list">
          {list.map((movie, index)  => (
            <MovieCard movie={movie} 
-           key={'movies-${index}'}
+           key={`movies-${index}`}
             dispatch={this.props.store.dispatch}
-            isFavourite={this.isMovieFavourite}
+            isFavourite={this.isMovieFavourite(movie)}
             />
          ))}
        </div>
