@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A movie search web app made using React and Redux 
+1) Search movies by their name and add it to list 
+2)Add and remove movies from favourites
 
 ## Available Scripts
 
