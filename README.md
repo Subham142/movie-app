@@ -14,6 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `Screenshots`
+![Screenshot (14)](https://user-images.githubusercontent.com/60570595/107116641-b96b4780-689a-11eb-85d8-5436b1ad8824.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/60570595/107116645-bf612880-689a-11eb-8791-c54ad3f81819.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/60570595/107116655-c25c1900-689a-11eb-8ebe-1beb4ee3ee75.png)
+
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
